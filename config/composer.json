@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/config",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "maliv",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "microsoft/microsoft-graph": "^1.8",
+    "ext-ftp": "*"
+  }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" promptOnRemoteOverwrite="CHECK_TIMESTAMP" serverName="onpu" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true" notifyRemoteChanges="true">
+    <serverData>
+      <paths name="onpu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/development" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
